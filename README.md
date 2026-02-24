@@ -6,11 +6,13 @@ Currently, just a few problems solved — more will be added over time.
 ---
 
 ## 📂 Repository Structure
+```
 hackerrank/
 ├─ algorithms/
 ├─ data_structures/
 ├─ 30_days_of_code/
 └─ README.md
+```
 
 
 - Each problem solution is in its **own file**.  
