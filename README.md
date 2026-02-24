@@ -8,6 +8,7 @@ Currently, just a few problems solved — more will be added over time.
 ## 📂 Repository Structure
 hackerrank/
 ├─ algorithms/
+├─ data_structures/
 ├─ 30_days_of_code/
 └─ README.md
 
@@ -35,6 +36,5 @@ hackerrank/
 - File names are **lowercase with underscores** for consistency.  
 - This repo will grow as I complete more challenges.
 
----
 
 Made with ❤️ by **Chantel**
