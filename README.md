@@ -18,20 +18,6 @@ hackerrank/
 - Each problem solution is in its **own file**.  
 - Future problems will be added to the appropriate folder.
 
----
-
-## 📘 Current Solutions
-
-### Algorithms
-- Compare the Triplets
-
-### 30 Days of Code
-- Day 0: Hello World
-- Day 1: Data Types
-- Day 2: Operators
-
----
-
 ## ⚙️ Notes
 
 - Solutions are implemented in JavaScript (or TypeScript where noted).  
